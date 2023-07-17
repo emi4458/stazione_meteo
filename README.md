@@ -10,7 +10,7 @@ The station is designed and printed with 3D printer using petg plastic. The temp
 
 
 ## 3D model
-Disegnato con Fusion 360  
+Designed with Fusion 360  
 
 ![](https://i.imgur.com/9LzOWAX.png)
 ## Authors
